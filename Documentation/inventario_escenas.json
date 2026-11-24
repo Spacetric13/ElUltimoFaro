@@ -1,0 +1,31 @@
+{
+    "scope": "Inventario estatico en editor sin ejecutar el juego; no mide FPS ni draw calls",
+    "scenes": [
+        {
+            "scene": "Hall_Quest",
+            "objects": 98,
+            "activeObjects": 96,
+            "renderers": 69,
+            "enabledRenderers": 67,
+            "lights": 2,
+            "enabledLights": 2,
+            "audioSources": 2,
+            "particleSystems": 0,
+            "meshVertices": 2712,
+            "meshTriangles": 2454
+        },
+        {
+            "scene": "Isla_Quest",
+            "objects": 505,
+            "activeObjects": 503,
+            "renderers": 376,
+            "enabledRenderers": 373,
+            "lights": 7,
+            "enabledLights": 3,
+            "audioSources": 8,
+            "particleSystems": 1,
+            "meshVertices": 95444,
+            "meshTriangles": 43216
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "editor_paths_made_relative": [
+    "Assets\\ElUltimoFaro\\Editor\\FaroDesktopTools.cs",
+    "Assets\\ElUltimoFaro\\Editor\\FaroHallTools.cs",
+    "Assets\\ElUltimoFaro\\Editor\\FaroHallVerification.cs",
+    "Assets\\ElUltimoFaro\\Editor\\FaroQuestFirstBuild.cs",
+    "Assets\\ElUltimoFaro\\Editor\\FaroQuestRelease.cs",
+    "Assets\\ElUltimoFaro\\Editor\\FaroQuestSecondTools.cs"
+  ],
+  "note": "Solo cambia la copia para GitHub; juego y APK sin cambios."
+}

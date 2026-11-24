@@ -1,0 +1,13 @@
+SUCCESS - FINAL QUEST APK
+Version: 1.0.0 (100)
+Package: com.elultimofaro.quest
+Architecture: arm64-v8a / IL2CPP
+Scenes: Hall_Quest, Isla_Quest
+Release build; Android debuggable flag absent.
+APK signing v2 verified. Certificate matches Quest3S_Prueba02.
+APK archive integrity verified. OpenXR and OVR native libraries present.
+Quest 3S included in supportedDevices; VR intent and headtracking requirement present.
+Build: Unity generated native code/assets; Gradle :launcher:assembleRelease completed successfully.
+Gradle used Windows-ROOT certificates to resolve dependencies without disabling TLS verification.
+SHA256: C2EA4214D3FC7B26DF3552D4F39774B598E5BC37C677E79A18784CD0258B9BD1
+Physical headset and performance test: pending (no Quest connected).

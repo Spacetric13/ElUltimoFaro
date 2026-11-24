@@ -1,0 +1,4 @@
+Android OpenXR automatic startup: OK
+Enabled XR features: MetaQuestFeature, OculusTouchControllerProximityProfile, MetaXRSubsampledLayout, MetaXRFoveationFeature, MetaXRFeature, OculusTouchControllerProfile
+Hall: VR player, memory video, persistent XR session and destination OK
+Island: movement, grip, rowing, weather and single XR session OK
